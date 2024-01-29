@@ -1,0 +1,66 @@
+
+
+
+/* Navbar section * */
+#navbar .logo {
+  
+    justify-content: center;
+}
+
+#navbar {
+
+    width: 100%;
+   
+    flex-direction: column;
+}
+
+#navbar ul {
+   
+    flex-direction: column;
+    margin-top: -10px;
+}
+
+#navbar .logo img {
+    height: 61px;
+
+}
+
+#navbar .logo {
+    margin: 7px 22px;
+   
+}
+/* ****** Home Section******** */
+
+#home{
+    height: 666px;
+    margin: 5px 39px;
+}
+
+#home ul li{
+    height:34px;
+}
+
+#home h1{
+
+   
+        margin-top: 231px;
+}
+
+
+
+
+/* services  */
+
+#services{
+    /* position: relative; */
+    flex-direction: column;
+ /* top:69px; */
+}
+
+/* client-section */
+
+
+
+/* contact */
+
+/* utitlity classes */
